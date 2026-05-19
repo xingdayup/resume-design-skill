@@ -1,0 +1,4 @@
+interface:
+  display_name: "Resume Design"
+  short_description: "Design and rewrite AI Agent/LLM/RAG technical resumes."
+  default_prompt: "Use this skill to critique, rewrite, and structure my AI Agent/LLM/RAG resume for a target JD."
